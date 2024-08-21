@@ -14,7 +14,7 @@ We aim in this project not to violate any ethical boundaries and to maintain int
 #### Data Sources:
 Chicago Boundaries Data
 
-- https://data.cityofchicago.org/resource/y6yq-dbs2.json
+https://data.cityofchicago.org/resource/y6yq-dbs2.json
 
 Grocery Stores
 
